@@ -1,5 +1,5 @@
 {
-    "token": "MTA0MTM4MjA0ODIxNDA0MDU5OQ.GCkFsn.zhgXm9bNK6JJvwPgOAeBpiyhxIWjNq_tYJdgKE",
+    "token": "YOUR_BOT_TOKEN",
     "textchannel_name": "NUCKED",  
     "send_message": "@everyone rip, but you just got nucked!",
     "send_feedback": "true"
